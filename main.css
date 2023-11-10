@@ -110,10 +110,7 @@ button:hover {
 
 
 /* texturing image */
-body {
-    background-image: url(images/bg.png);
-    
-}
+
 
 
 /* .upper {
@@ -187,10 +184,12 @@ body {
     top: 100px;
     text-align: center;
     /* font-family: Gotham Black; */
-    font-size: 79px;
+    font-size: 60px;
     /* font-weight: 500; */
     line-height: 79px;
     letter-spacing: -0.015em;
+    position: absolute;
+    top: 300px;
 }
 
 
@@ -270,6 +269,13 @@ body{
     border-radius: 15px;
 
 } */
+
+/* jeff start from here */
+
+body {
+    background-image: url(images/bg.png);
+    
+}
 
 .prime_container{ 
    display:flex;
