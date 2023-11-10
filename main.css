@@ -140,15 +140,15 @@ button:hover {
 
 /* } */
 
-#up_btn{
+/* #up_btn{
     display: flex;
-    /* z-index: 10; */
-}
-
-/* .head_btn{
-
-
+    /* z-index: 10;
 } */
+
+#head_btn{
+    display: flex;
+
+}
 /* #head_text {
     z-index: 10;
 
